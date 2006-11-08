@@ -1,0 +1,16 @@
+bin/summarize.pl
+Changes
+lib/Lingua/JA/Summarize/Extract.pm
+lib/Lingua/JA/Summarize/Extract/Plugin.pm
+lib/Lingua/JA/Summarize/Extract/Plugin/Parser/Ngram.pm
+lib/Lingua/JA/Summarize/Extract/Plugin/Parser/NgramSimple.pm
+lib/Lingua/JA/Summarize/Extract/Plugin/Parser/Trim.pm
+lib/Lingua/JA/Summarize/Extract/Plugin/Scoring/Base.pm
+lib/Lingua/JA/Summarize/Extract/Plugin/Sentence/Base.pm
+lib/Lingua/JA/Summarize/Extract/Plugin/Sentence/Tiny.pm
+lib/Lingua/JA/Summarize/Extract/ResultSet.pm
+Makefile.PL
+MANIFEST			This list of files
+META.yml
+README
+t/00_compile.t
