@@ -7,7 +7,7 @@ __PACKAGE__->mk_accessors(qw/ text rate /);
 use Carp ();
 use UNIVERSAL::require;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Lingua::JA::Summarize::Extract::ResultSet;
 
